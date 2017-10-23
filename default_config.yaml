@@ -1,0 +1,5 @@
+server:
+  port: 80
+  ip: ""
+database:
+  url: "sqlite://storage.db"
